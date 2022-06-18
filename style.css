@@ -176,3 +176,13 @@ img.hero-image {
     border-style: solid;
     border-color: #F9FAF8;
 }
+
+footer {
+    background-color: #1F2937;
+    color:#F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    font-size: 20px;
+}
