@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Roboto", sans-serif;
+}
+
+.dark-section {
+    background-color: #1F2937;
+    padding: 0px 200px;
+}
+
+header {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    justify-content: space-between;
+    color: #F9FAF8;
+    font-weight:900
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.hero-panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
